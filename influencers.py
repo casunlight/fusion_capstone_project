@@ -106,11 +106,11 @@ def t_tweets_influencers(n):
 		print '-------', count, 'of', n, 'tweets analyzed', '-------'
 	return newdic
 
-# result = t_tweets_influencers(20) # first 2 popular tweets, 100 max
-# df = pd.DataFrame(result)
-# df.to_csv('influencers(10 posts).csv', encoding='utf-8')
+result = t_tweets_influencers(20) # first 2 popular tweets, 100 max
+df = pd.DataFrame(result)
+df.to_csv('influencers(10 posts).csv', encoding='utf-8')
 
-# print 'project is done!'
+print 'project is done!'
 
 
 
