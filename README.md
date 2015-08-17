@@ -75,7 +75,7 @@ Put all superfans with more points than `2000`, associated with the tweet featur
 How the influencer pool looks like:
 
 |  | section_1 | section_2 | topic_1 | topic_2 | hashtag_1 |
-| ------------ | ------------- | ------------ |
+| ------------ | ------------- | ------------ |------------ |------------ |------------ |
 | superfan_1 | 0  | 2 | 1 | 0 | 0 |
 | superfan_2 | 1  | 1 | 0 | 1 | 0 |
 | superfan_3 | 0  | 0 | 0 | 1 | 1 |
@@ -92,11 +92,11 @@ A baseline recommender `recommendation.py` is first built based on just aggregat
 
 Pic 1. Sample Superfans List
 
-![image](https://slack-files.com/files-tmb/T03H6UV5A-F092U3G8N-9ece0c52aa/pasted_image_at_2015_08_13_03_29_pm_1024.png =400x)
+<img src="/images/1.png" alt="alt text" width="500">
 
 Pic 2. Sample Influence Rank
 
-![image](https://slack-files.com/files-tmb/T03H6UV5A-F096KN8H2-6b88ec3bf8/pasted_image_at_2015_08_17_09_31_am_1024.png =400x)
+<img src="/images/2.png" alt="alt text" width="500">
 
 
 
