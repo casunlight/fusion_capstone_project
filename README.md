@@ -87,16 +87,16 @@ Example output: `mapping.csv`
 
 A baseline recommender `recommendation.py` is first built based on just aggregation of superfans who have expressed interets clearly by retweeting before.
 
-* Input: Current system only takes one section/topic/hashtag as input
+* Input: First choose only one category of sections/topics/hashtags, then choose one element from the list
 * Output: A list of the aggregation of superfans who have retweeted one or more tweets with the input feature. Also an influence rank of the superfans.
 
 Pic 1. Sample Superfans List
 
-<img src="/images/query.png" alt="alt text" width="500">
+<img src="/images/query.jpg" alt="alt text" width="500">
 
 Pic 2. Sample Influence Rank
 
-<img src="/images/rank.png" alt="alt text" width="500">
+<img src="/images/rank.jpg" alt="alt text" width="500">
 
 
 
