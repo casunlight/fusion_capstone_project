@@ -92,11 +92,11 @@ A baseline recommender `recommendation.py` is first built based on just aggregat
 
 Pic 1. Sample Superfans List
 
-<img src="/images/1.png" alt="alt text" width="500">
+<img src="/images/query.png" alt="alt text" width="500">
 
 Pic 2. Sample Influence Rank
 
-<img src="/images/2.png" alt="alt text" width="500">
+<img src="/images/rank.png" alt="alt text" width="500">
 
 
 
