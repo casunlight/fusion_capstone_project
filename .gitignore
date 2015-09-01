@@ -1,4 +1,7 @@
 .env
 .ipynb_checkpoints/
 *.pyc
-.txt
+.alchemyapi/
+*.txt
+.visualization_app/server_get/twitterdata/
+*.env
